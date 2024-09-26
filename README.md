@@ -1,5 +1,9 @@
 # FuwaCarnival
 Tablas Tienda
-## Diagrma
+## Tabla (Cuaderno)
+- ![image](https://github.com/user-attachments/assets/56058206-c29a-48ff-9927-acbdfaf6df5b)
+- ![Imagen de WhatsApp 2024-09-26 a las 00 09 29_e8091012](https://github.com/user-attachments/assets/36642365-2b1e-4f54-adf8-81fed595c37d)
+- ![Imagen de WhatsApp 2024-09-26 a las 00 10 01_035a8359](https://github.com/user-attachments/assets/3645dfdd-ced3-4090-bd03-41204c9a0003)
+
+## Diagrama (Lucidchart)
 - ![image](https://github.com/user-attachments/assets/7d6e1bef-7678-4fb7-a96a-b7d3571489aa)
-- https://lucid.app/lucidchart/0822de9c-3f5b-4a01-bd60-aa500bb92848/edit?viewport_loc=-380%2C-49%2C2725%2C1335%2C0_0&invitationId=inv_ea408960-e184-486a-beb0-892cc02dbace
